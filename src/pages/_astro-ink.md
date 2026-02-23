@@ -9,4 +9,4 @@ Made by [Andras](https://twitter.com/heyandras) who is working on an open-source
 **Have a story?**
 
 - [Write me](https://twitter.com/heyandras)
-- [Open a PR on Github](https://github.com/coollabsio/aihorrors.com)
+- [Open a PR on Github](https://github.com/coollabsio/llmhorrors.com)
