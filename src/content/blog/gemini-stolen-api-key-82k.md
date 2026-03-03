@@ -8,7 +8,7 @@ tags:
   - security
 author: Andras Bacsai
 authorTwitter: heyandras
-date: "2026-03-03T12:00:00.000Z"
+date: "2026-02-25T12:00:00.000Z"
 image: /assets/gemini-stolen-api-key-82k.png
 category: development
 isNew: false
