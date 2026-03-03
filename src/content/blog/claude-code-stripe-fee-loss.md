@@ -8,7 +8,7 @@ tags:
   - api-key
 author: Andras Bacsai
 authorTwitter: heyandras
-date: "2026-03-03T19:45:00.000Z"
+date: "2026-02-28T19:45:00.000Z"
 image: /assets/claude-code-stripe-fee-loss.jpg
 category: development
 isNew: true
