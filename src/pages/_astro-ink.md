@@ -2,7 +2,7 @@
 
 <br/>
 
-Made by [Andras](https://twitter.com/heyandras) who is working on an open-source & self-hostable Heroku / Netlify / Vercel alternative called [Coolify](https://coolify.io).
+Made by [Andras](https://twitter.com/heyandras) who is working on several open-source projects including [Coolify](https://coolify.io) and [Jean](https://jean.build). 
 
 <br/>
 
