@@ -2,7 +2,7 @@
 
 <br/>
 
-Made by [Andras](https://twitter.com/heyandras) who is working on several open-source projects including [Coolify](https://coolify.io) and [Jean](https://jean.build). 
+Made by [Andras](https://twitter.com/heyandras) who is working on several open-source projects including [Coolify](https://coolify.io) and [Jean](https://jean.build) and many other things at [coolLabs](https://coollabs.io)
 
 <br/>
 
