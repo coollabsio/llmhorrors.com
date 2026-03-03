@@ -10,7 +10,7 @@ authorTwitter: heyandras
 date: "2026-02-23T12:00:00.000Z"
 image: /assets/openclaw-inbox-deletion.png
 category: development
-isNew: true
+isNew: false
 ---
 
 ---
