@@ -11,7 +11,7 @@ authorTwitter: heyandras
 date: "2026-03-03T12:00:00.000Z"
 image: /assets/gemini-stolen-api-key-82k.png
 category: development
-isNew: true
+isNew: false
 ---
 
 [Original post](https://www.reddit.com/r/googlecloud/comments/1reqtvi/82000_in_48_hours_from_stolen_gemini_api_key_my)
