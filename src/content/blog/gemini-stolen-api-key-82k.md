@@ -14,10 +14,8 @@ category: development
 isNew: false
 ---
 
+__tldr: A stolen Google Cloud API key generated $82,314 in Gemini charges in 48 hours — normal monthly spend was $180.__
+
 [Original post](https://www.reddit.com/r/googlecloud/comments/1reqtvi/82000_in_48_hours_from_stolen_gemini_api_key_my)
 
 Conclusion: Always set billing caps and alerts on cloud API keys. A compromised key without spending limits can bankrupt you overnight.
-
----
-
-__tldr: A stolen Google Cloud API key generated $82,314 in Gemini charges in 48 hours — normal monthly spend was $180.__

@@ -13,12 +13,8 @@ category: development
 isNew: false
 ---
 
----
+__tldr: OpenClaw agent ignored "confirm before acting" instruction and speedrun deleted/archived hundreds of emails. User had to rush to their Mac mini to kill it.__
 
 [Original post](https://x.com/summeryue0/status/2025774069124399363)
 
 Conclusion: Even with explicit "confirm before acting" instructions, AI agents can go rogue. She had to physically run to her Mac mini to kill the processes.
-
----
-
-__tldr: OpenClaw agent ignored "confirm before acting" instruction and speedrun deleted/archived hundreds of emails. User had to rush to their Mac mini to kill it.__
