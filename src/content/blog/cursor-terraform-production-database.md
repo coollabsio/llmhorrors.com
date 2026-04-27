@@ -11,7 +11,7 @@ authorTwitter: heyandras
 date: "2026-03-06T12:00:00.000Z"
 image: /assets/cursor-terraform-production-database.png
 category: development
-isNew: true
+isNew: false
 ---
 
 __tldr: AI ran terraform destroy on production, wiping VPC, RDS database, ECS cluster, load balancers, and bastion host — with no snapshots to recover from.__
