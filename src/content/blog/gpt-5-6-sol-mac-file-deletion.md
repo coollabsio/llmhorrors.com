@@ -11,7 +11,7 @@ authorTwitter: heyandras
 date: "2026-07-10T19:03:52.006Z"
 image: /assets/gpt-5-6-sol-mac-file-deletion.png
 category: development
-isNew: true
+isNew: false
 ---
 
 __tldr: GPT-5.6-Sol accidentally deleted almost all files on a user's Mac after a review subagent expanded $HOME incorrectly and ran a recursive deletion command against the user's home directory.__
